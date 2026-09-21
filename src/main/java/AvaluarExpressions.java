@@ -6,6 +6,22 @@ public class AvaluarExpressions {
         int c = 4;
         int d = 2;
 
+        System.out.println(2 - a * b + c);
+
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
         // TODO: mostra el resultat d'avaluar cada expressió, una per línia:
         //   2 - a * b + c
         //   (2 - a) * b + c
