@@ -46,7 +46,7 @@ public class OperacionsMatematiques {
         
         
         
-        // TODO: llegeix dos enters i mostra suma, resta, producte i divisió:
+         // TODO: llegeix dos enters i mostra suma, resta, producte i divisió:
         //   4 + 2 = 6
         //   4 - 2 = 2
         //   4 * 2 = 8
