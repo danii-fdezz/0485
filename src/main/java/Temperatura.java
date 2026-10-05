@@ -1,10 +1,11 @@
 // Activitat 07 — Convertir Fahrenheit a Celsius
+
 public class Temperatura {
     public static void main(String[] args) {
         
       
-    
-        // Declarem la temperatura en Fahrenheit (pots canviar aquest valor)
+        
+        
         double temperatureF = 212.0;
         
         // Realitzem la conversió a graus Celsius
